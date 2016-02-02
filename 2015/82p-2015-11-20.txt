@@ -1,0 +1,58 @@
+# 82% iPad Pro, Sketch, Zoolander
+
+### iPad Pro
+
+Sinds een week heb ik een [iPad Pro](http://www.apple.com/ipad-pro/). Ik ben er erg van onder de indruk ([zoals](https://www.macstories.net/stories/ipad-pro-review/) [vele](http://daringfireball.net/2015/11/the_ipad_pro) [reviewers](http://techcrunch.com/2015/11/11/test-2/#.yu3jxy:RHxy)). Het echte voordeel dat je met een groot scherm kan behalen zijn speciaal gemaakte apps voor grote schermen, maar die zijn nog maar schaars. Ik hoop dat in de nabije toekomst tools als [Framer](http://framerjs.com) of [Quartz Composer](https://en.wikipedia.org/wiki/Quartz_Composer) op de iPad beschikbaar komen ([Framer is gebruikt bij het ontwerpen van de nieuwe Basecamp app](https://signalvnoise.com/posts/3978-building-basecamp-3-mobile-prototypes)) maar veel appdevelopers twijfelen of ze überhaupt wel apps voor de iPad gaan maken. Zo gaan [de makers van Sketch voorlopig niet aan een iPad app beginnen](http://www.theverge.com/2015/11/19/9757516/ipad-pro-apps-pricing-ios-developers-opt-out). Zou ik echt instant kopen, jammer dit.
+
+Naast de iPad Pro was er van de week nog een echte Apple design fitty aan de gang. Lees de artikelen en oordeel zelf.
+
+- [How Apple Is Giving Design A Bad Name](http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name)
+- [Don Norman is an idiot, and other observations](http://anthonyfranco.net/2015/11/13/don-norman-is-an-idiot-and-other-observations/)
+
+### Over Sketch en Framer gesproken
+
+Een aantal interessante tools, plugins en artikelen voor/van/over Sketch en Framer. Happy prototyping!
+
+- [Introducing Silver : Lightweight Mobile Prototyping in Sketch 3](https://medium.com/@abynim/introducing-silver-lightweight-mobile-prototyping-in-sketch-3-cee46d267f1f#.pd5klgso1)
+- [Stitch Sketch Plugin-in](https://github.com/mattsjohnston/stitch)
+- [Fluid Plug-in for Sketch](https://github.com/matt-curtis/Fluid-for-Sketch)
+- [Sketch-image-replace plugin](https://github.com/iansilber/sketch-image-replace)
+- [Sketch Keyboard Shortcuts and Tricks](https://designcode.io/sketch-keyboard)
+- [Sketch cheatsheet for Cheaters](http://brettterpstra.com/2015/02/23/sketch-cheatsheet-for-cheaters/)
+- [Organising Sketch 3 for iOS](https://medium.com/sketch-app/organizing-sketch-3-for-ios-ebb97cae58b7#.cof8b548u)
+- [SketchTalk](http://sketchtalk.io)
+- [Exploring Dynamic Layout in Sketch — Facebook Design](https://medium.com/facebook-design/exploring-dynamic-layout-in-sketch-fdf0e825d1cf#.71tfyfmi1)
+- [Design for Virtual Reality - Framer](http://blog.framerjs.com/posts/design-virtual-reality.html)
+- [Code Highlighting - Framer](http://blog.framerjs.com/posts/code-highlighting.html)
+- [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY&feature=youtu.be)
+
+### Kijken
+
+Weer lekker veel kijkvoer voor dit weekend:
+
+- Een van mijn favoriete films is Zoolander. Nu kan het vervolg waarschijnlijk niet tippen aan het origineel, toch ben ik benieuwd: [Zoolander 2 Trailer](https://www.youtube.com/embed/4CL4LNWHegk)
+- Interessante film over het faken van de maanlanding: [Moonwalkers Official Trailer](https://m.youtube.com/watch?v=wRoMpeUGZ9I)
+- Genoeg gezegd: [Blendle in de jaren tachtig](https://m.youtube.com/watch?feature=youtu.be&v=ktHxSZDXF7k)
+- Supergedetailleerde beschrijving van hoe je zelf een BB-8 in elkaar knutselt: [Building a Homebrew BB-8](http://ihnatko.com/2015/11/13/building-a-homebrew-bb-8/)
+- Een nieuwe aflevering van de Computer Show: [Computer Show “Communities”](https://www.youtube.com/watch?v=FvTN9siaT-M&feature=youtu.be)
+- Uit de laatste ZML van dit seizoen: [Zondag met Lubach S03: aflevering 8 - Hans Rosling](https://www.youtube.com/watch?v=fPtfx0C-34o&app=desktop)
+- Ik leerde van dit filmpje dat verslaving toch anders werkt dan ik dacht. [Everything We Think We Know About Addiction Is Wrong](https://www.youtube.com/watch?v=ao8L-0nSYzg)
+- Lekker reclame kijken: [Apple Debuts Five Short Apple TV Ads Featuring Apps and Games](https://www.macstories.net/news/apple-debuts-five-short-apple-tv-ads-featuring-apps-and-games/)
+- Finding Nemo komt terug! [Teaser trailer for Finding Dory](http://kottke.org/15/11/teaser-trailer-for-finding-dory)
+
+En als je van echt slechte films/trailers houdt, vooral deze kijken:
+
+- [Gods of Egypt](http://trailers.apple.com/trailers/summit/godsofegypt/)
+- [The Huntsman Winter's War](http://trailers.apple.com/trailers/universal/thehuntsmanwinterswar/)
+
+### WVTTK
+- Google+ zit in een nieuw jasje en heeft een veel betere performance gekregen: [Google Web Showcase](https://developers.google.com/web/showcase/case-study/googleplus)
+- Lekker dan. [Users don’t hate change. They hate you.](https://medium.com/@cwodtke/users-dont-hate-change-they-hate-you-461772fbcac7#.txzchkx7e)
+- Ik ben fan van de Pomodoro techniek, lees er hier alles over: [The Simple Technique To Fit A 40-Hour Workweek Into 16.7 Hours](http://www.fastcompany.com/3053036/how-to-be-a-success-at-everything/the-simple-technique-to-fit-a-40-hour-work-week-into-167-h)
+- **Sponsordingetje:** Altijd al eens met een eigen server willen pielen? [Nu extra laagdrempelig door de 10 euro korting die ik je kan geven bij Digital Ocean](https://www.digitalocean.com/?refcode=36d239e74811).
+
+![Peace out](https://media.giphy.com/media/l41lIjOIc5AL2VBHa/giphy.gif)
+
+Vind je het een leuke nieuwsbrief? Laat het vooral horen door mensen op social media door te verwijzen naar [82procent.nl](http://82procent.nl). 
+
+Heb je tips, opmerkingen of andere dingen die je met mij wil delen? Mail me op reinier@ladan.email of mention me op twitter [@reinier](https://twitter.com/reinier).  
