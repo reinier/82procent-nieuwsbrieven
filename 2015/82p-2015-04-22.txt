@@ -1,0 +1,25 @@
+# Extra Wortels: Meer Star Wars teaser, AnyBar+Text, Toptaken en meer
+
+### [The Incomparable 243 - Find My Lightsaber](https://www.theincomparable.com/theincomparable/243/index.php)
+
+Heb je net als ik de nieuwe Star Wars teaser al minimaal 10 keer gezien? En wil je graag naar een stel Star Wars nerds luisteren die de teaser frame voor frame analyseren? Dan zit je helemaal goed met aflevering 243 van The Incomparable podcast. Jason Snell, John Siracusa, Serenity Caldwell en Dan Moren bespreken de teaser tot in de diepste details.
+
+### [AnyBar+text](https://github.com/ttscoff/AnyBar)
+
+Een fork van de app AnyBar door Brett Terpstra. Als je veel eigen scripts schrijft op je Mac om zaken te automatiseren en je wilt op een niet in de weg zittende manier feedback krijgen dan is het een hele mooie app. Je kan via een UDP port of AppleScript informatie naar je menubar sturen en icoontjes laten tonen. Met de Fork van Brett kun je ook alleen tekst laten tonen. TextBar kan iets soortgelijks.
+
+### [What Really Matters: Focusing on Top Tasks](http://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
+
+Een goed artikel op A List Apart over toptaken op websites. Waarom zijn ze belangrijk en hoe kom je eraan? Een must read voor iedereen die iets met internet doet.
+
+### [Netflix Is Betting Its Future on Exclusive Programming](http://www.nytimes.com/2015/04/20/business/media/netflix-is-betting-its-future-on-exclusive-programming.html)
+
+Het is vrij duidelijk welke kant Netflix opgaat de komende jaren: eigen originele content. Ze laten dit jaar al drie keer zoveel eigen content zien als vorig jaar. Impressive.
+
+### [P E E K S P A C E](http://peek.space/)
+
+Vrij te gebruiken foto's met een ruimte thema. Vooral foto's van NASA dus. Awesome. Vette domeinnaam ook.
+
+Een hele fijne dag nog,
+
+Reinier Ladan
