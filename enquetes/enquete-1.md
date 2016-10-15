@@ -18,7 +18,7 @@ Erg goed om te lezen dat het stuk waar de meeste tijd in gaat zitten het beste w
 
 ![Wat is je interesse in de volgende onderdelen?](uitkomst-3.jpg)
 
-De dingen die ik zelf het leukste vind komen hier erg hoog, fijn! En Enzo Knol mensen… echt?
+De dingen die ik zelf het leukste vind komen hier erg hoog, fijn!
 
 ![Luister je naar de Appels en Perenshow?](uitkomst-4.jpg)
 
