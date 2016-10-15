@@ -14,11 +14,11 @@ Net geen 4,5. Dat kan beter volgende keer!
 
 ![Geef je waardering voor de volgende onderdelen](uitkomst-2.jpg)
 
-De dingen die ik zelf het leukste vind komen hier erg hoog, fijn!
+Erg goed om te lezen dat het stuk waar de meeste tijd in gaat zitten het beste wordt gewaardeerd.
 
 ![Wat is je interesse in de volgende onderdelen?](uitkomst-3.jpg)
 
-Enzo Knol mensen… echt?
+De dingen die ik zelf het leukste vind komen hier erg hoog, fijn! En Enzo Knol mensen… echt?
 
 ![Luister je naar de Appels en Perenshow?](uitkomst-4.jpg)
 
