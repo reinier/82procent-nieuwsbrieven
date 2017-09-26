@@ -1,6 +1,6 @@
 # Het 82% nieuwsbriefarchief
 
-Leg dat maar op je scrabblebord; nieuwsbriefarchief. Het bijna complete 82% nieuwsbriefarchief staat hier op Github. [Meer informatie over de 82% nieuwsbrief](http://82procent.nl) en misschien beter toegankelijke versies van de nieuwsbrief vind je regelmatig op [Sinds '82](https://sinds82.nl).
+Leg dat maar op je scrabblebordje; nieuwsbriefarchief. Het bijna complete 82% nieuwsbriefarchief staat hier op Github. [Meer informatie over de 82% nieuwsbrief](http://82procent.nl) en misschien beter toegankelijke versies van de nieuwsbrief vind je regelmatig op [Sinds '82](https://sinds82.nl).
 
 Ik heb één missie met deze nieuwsbrief: Keep The Web Weird!
 
