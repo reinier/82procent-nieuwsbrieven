@@ -1,8 +1,6 @@
 # Het 82% nieuwsbriefarchief
 
-**UPDATE Donderdag, 6 September 2018:** Het archief zal voortaan worden aangevuld op [Sinds '82](https://github.com/reinier/sinds82-jekyll) en heel specifiek in de [_posts/82procent/](https://github.com/reinier/sinds82-jekyll/tree/master/_posts/82procent) directory.
-
-Leg dat maar op je scrabblebordje; nieuwsbriefarchief. Het bijna complete 82% nieuwsbriefarchief staat hier op Github. [Meer informatie over de 82% nieuwsbrief](http://82procent.nl) en misschien beter toegankelijke versies van de nieuwsbrief vind je regelmatig op [Sinds '82](https://sinds82.nl).
+Hier vind je het archief van Nieuwsbrieven tot en met 2019. Latere nieuwsbrieven vind je op [82procent.nl](https://82procent.nl)
 
 Ik heb één missie met deze nieuwsbrief: Keep The Web Weird!
 
